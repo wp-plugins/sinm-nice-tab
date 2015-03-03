@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This is an awesome wordpress tab plugin for Wordpress where you install plugin, after installation you will get a menu in your admin panel, add new tab and enjoy your awesome tab.
+This is an awesome wordpress tab plugin for Wordpress where you install plugin, after installation you will get a menu in your admin panel.
 
 == Description ==
 
@@ -16,7 +16,7 @@ This is an awesome wordpress tab plugin for Wordpress where you install plugin, 
 
 1. Upload `plugin file` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Place `<?php do_shortcode('plugin_shortcode'); ?>` like <?php do_shortcode('[swtp category="game"]'); ?> in your templates
+3. Place `<?php do_shortcode('plugin_shortcode'); ?>` in your templates
 
 For basic usage
 
