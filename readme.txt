@@ -46,7 +46,7 @@ For basic usage
 <pre>Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab </pre> 
 
 == Screenshots ==
-/assets/screenshot-1.png
+
 
 
 
