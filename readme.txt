@@ -44,6 +44,9 @@ For basic usage
 <pre> Enjoy this plugin.</pre> 
 
 <pre>Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab </pre> 
+**Great News**
+
+<pre>Video tutorial is coming soon about how to use this plugin even how to use my more feature included premium plugin here</pre>
 
 == Screenshots ==
 
