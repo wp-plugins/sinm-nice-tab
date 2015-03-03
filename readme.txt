@@ -8,6 +8,7 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This is an awesome wordpress tab plugin for Wordpress where you install plugin, after installation you will get a menu in your admin panel.
+Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab
 
 == Description ==
 
