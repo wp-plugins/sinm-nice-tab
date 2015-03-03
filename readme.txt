@@ -31,7 +31,7 @@ Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab
 
 For basic usage
 
-**Great News**
+Great news:
 
 <pre>Video tutorial is coming soon about how to use this plugin even how to use my more feature included premium plugin here</pre>
 
