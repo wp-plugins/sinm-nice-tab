@@ -7,7 +7,7 @@ Stable tag: 4.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab This is an awesome wordpress tab plugin for Wordpress where you install plugin, after installation you will get a menu in your admin panel.
+This is an awesome wordpress tab plugin for Wordpress where you install plugin, after installation you will get a menu in your admin panel.
 
 
 == Description ==
@@ -32,6 +32,8 @@ For basic usage
 <pre> [swtp category="game"]</pre> 
 
 <pre> Enjoy this plugin.</pre> 
+
+<pre>Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab </pre> 
 
 == Screenshots ==
 
