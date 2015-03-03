@@ -13,6 +13,8 @@ This is an awesome wordpress tab plugin for Wordpress where you install plugin, 
 == Description ==
 Plugin Features-
 
+Plugins Demo-http://wordcorepress.com/plugins/sinm-nice-tab 
+
 <pre> *Shortcode system</pre> 
 <pre> *Very lightweight only 16kb</pre> 
 <pre> *easy Documentation and many more</pre> 
