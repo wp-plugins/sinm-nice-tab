@@ -15,7 +15,7 @@ This is an awesome wordpress tab plugin for Wordpress where you install plugin, 
 Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab 
 
 == Installation ==
-https://www.youtube.com/watch?v=agyalZHV0-E
+
 
  This plugin created by http://wordcorepress.com/
 
