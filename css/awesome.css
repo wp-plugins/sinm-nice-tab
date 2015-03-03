@@ -1,0 +1,22 @@
+.sinm_hit_tab{margin-bottom: 15px;}
+.sinm_hit_tab ul.sinm_titles{list-style: outside none none;
+margin: 0;
+padding: 0;
+text-align: center;}
+
+.sinm_hit_tab ul.sinm_titles li{display: inline-block;
+margin: 0;
+padding: 0;}
+
+.sinm_hit_tab ul.sinm_titles li a{background: none repeat scroll 0 0 #f1f1f1;
+color: #323338;
+display: inline-block;
+padding: 8px;
+text-decoration: none;
+border: 1px solid #ddd;
+border-bottom: none;}
+.sinm_hit_tab ul.sinm_titles li.active a,.sinm_hit_tab ul.sinm_titles li:hover a{background: #323338;color: #fff}
+
+div.sinm_inner_tab{padding: 15px;text-align-last: justify;background: #f1f1f1}
+div.sinm_inner_tab h2{margin: 0 0 5px;}
+div.sinm_inner_tab p{}
