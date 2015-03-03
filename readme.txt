@@ -31,6 +31,8 @@ Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Place `<?php do_shortcode('plugin_shortcode'); ?>` in your templates
 
+https://www.youtube.com/watch?v=9MYymhX1WVI
+
 For basic usage
 
 Great news:
