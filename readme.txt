@@ -31,6 +31,10 @@ Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab
 
 For basic usage
 
+**Great News**
+
+<pre>Video tutorial is coming soon about how to use this plugin even how to use my more feature included premium plugin here</pre>
+
 <pre> 1. When you install this plugin then you will get a menu, the menu name is awesome tabs.</pre> 
 
 <pre> 2. Add your new tab from your admin menu.</pre> 
@@ -44,9 +48,7 @@ For basic usage
 <pre> Enjoy this plugin.</pre> 
 
 <pre>Demo Here- http://wordcorepress.com/plugins/sinm-nice-tab </pre> 
-**Great News**
 
-<pre>Video tutorial is coming soon about how to use this plugin even how to use my more feature included premium plugin here</pre>
 
 == Screenshots ==
 
